@@ -5,7 +5,7 @@ import logoDextools from '../assets/dextools-1.png';
 import logoSolidarity from '../assets/solidarity-1.png';
 import logoFire from '../assets/fire-1.png';
 import logoWallet from '../assets/wallet-filled-money-tool-1.png';
-import logoTokenomics from  '../assets/TOKENOMICS.png';
+import logoTokenomics from '../assets/TOKENOMICS.png';
 
 function About() {
     return (
@@ -14,61 +14,61 @@ function About() {
                 <div className="about-dex aos-init aos-animate" data-aos="fade-up">
                     <div className="dex-img">
                         <a href="https://laughcoin.io/#">
-                            <img src={logoRaydium} alt=""  />
+                            <img src={logoRaydium} alt="" />
                         </a>
                     </div>
                     <div className="dex-img">
                         <a href="https://laughcoin.io/#">
-                            <img src={logoSolscan} alt=""  />
+                            <img src={logoSolscan} alt="" />
                         </a>
                     </div>
                     <div className="dex-img">
                         <a href="https://laughcoin.io/#">
-                            <img src={logoDexscreener} alt=""  />
+                            <img src={logoDexscreener} alt="" />
                         </a>
                     </div>
                     <div className="dex-img">
                         <a href="https://laughcoin.io/#">
-                            <img src={logoDextools} alt=""  />
+                            <img src={logoDextools} alt="" />
                         </a>
                     </div>
                 </div>
                 <div className="about-heading aos-init aos-animate" data-aos="fade-up">
-                    About Laugh Coin and what's special here?
+                    🚀 Why LaughCoin?
                 </div>
                 <p className="about-desc aos-init aos-animate" data-aos="fade-up">
-                    Laugh Coin is all about spreading the crypto love, created for the
-                    Bonk-loving community on Solana. Everything that belongs to the team
-                    will be burned forever along with the plan to promote the project
-                    through long-term marketing campaigns that bring trust and a vibrant
-                    space to the community.
+                    LaughCoin is not your typical crypto venture. We believe that in the world of decentralized finance,
+                    there's room for a bit of lightheartedness. Our token is a digital canvas for the hilarious, the quirky,
+                    and the downright amusing. We've harnessed the power of memes to create a unique and entertaining token
+                    that reflects the vibrancy of our community.
                 </p>
                 <div className="about-utility aos-init aos-animate" data-aos="fade-up">
                     <div className="utility-box">
                         <img src={logoSolidarity} alt="" />
-                        <h1 className="utility-title">Huge Community</h1>
+                        <h1 className="utility-title">🌐 Community-Driven Fun</h1>
                         <p className="utility-des">
-                            The strong community was inherited from Bonk - his father. With
-                            loyalty and passion, they are legendary Fans ready to support Baby
-                            Bonk on Solana Chain
+                            At LaughCoin, community is everything. We're building a space where crypto enthusiasts,
+                            meme creators, and laughter aficionados come together. Expect exciting meme contests,
+                            collaborative initiatives, and a shared passion for spreading joy through the crypto-sphere.
                         </p>
                     </div>
                     <div className="utility-box">
                         <img src={logoFire} alt="" />
-                        <h1 className="utility-title">Liquidity Burnt</h1>
+                        <h1 className="utility-title">💰 Utility Meets Entertainment</h1>
                         <p className="utility-des">
-                            Liquidity is completely burned, no one can interfere with
-                            liquidity and endanger the project. Our community is always safe
-                            in the Laugh Coin space
+                            LaughCoin isn't just about laughs; it's about utility too.
+                            As a decentralized meme token, LaughCoin offers holders the chance
+                            to participate in exclusive events, unlock special features,
+                            and be part of a growing ecosystem that values both innovation and amusement.
                         </p>
                     </div>
                     <div className="utility-box">
                         <img src={logoWallet} alt="" />
-                        <h1 className="utility-title">Contract Renounced</h1>
+                        <h1 className="utility-title">🌈 Join the Laughter Revolution</h1>
                         <p className="utility-des">
-                            The project is empowered by the community. Smart contracts are
-                            completely renounced, no one can interfere anymore, absolutely
-                            safe in the Laugh Coin space
+                            Whether you're a seasoned crypto investor or a meme connoisseur,
+                            LaughCoin welcomes you to a world where serious gains can coexist with a seriously good time.
+                            Buckle up for an exhilarating ride as we redefine the narrative of what a meme token can be.
                         </p>
                     </div>
                 </div>

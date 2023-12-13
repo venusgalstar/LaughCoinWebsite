@@ -1,4 +1,4 @@
-import logo from '../assets/link-babybonk-logo-512-png.png';
+import logo from '../assets/token_logo_512.png';
 
 function Header() {
     return (
@@ -16,7 +16,7 @@ function Header() {
                 </ul>
             </div>
             <div className="header-buy">
-                <a href="https://laughcoin.io/#">BUY $BBONK</a>
+                <a href="https://laughcoin.io/#">BUY $LAUGH</a>
             </div>
         </header >
     );
