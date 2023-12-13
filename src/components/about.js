@@ -84,7 +84,7 @@ function About() {
 
             <div className="tokenomics-mobile" id="tokenomics">
                 <h1 data-aos="fade-up" className="aos-init aos-animate">Tokenomics</h1>
-                <img src={logoTokenomics} alt="" />
+                {/* <img src={logoTokenomics} alt="" /> */}
             </div>
         </div>
     );
