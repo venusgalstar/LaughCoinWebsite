@@ -13,31 +13,31 @@ function About() {
             <div className="wrap-about">
                 <div className="about-dex aos-init aos-animate" data-aos="fade-up">
                     <div className="dex-img">
-                        <a href="https://babybonk.pro/#">
+                        <a href="https://laughcoin.io/#">
                             <img src={logoRaydium} alt=""  />
                         </a>
                     </div>
                     <div className="dex-img">
-                        <a href="https://babybonk.pro/#">
+                        <a href="https://laughcoin.io/#">
                             <img src={logoSolscan} alt=""  />
                         </a>
                     </div>
                     <div className="dex-img">
-                        <a href="https://babybonk.pro/#">
+                        <a href="https://laughcoin.io/#">
                             <img src={logoDexscreener} alt=""  />
                         </a>
                     </div>
                     <div className="dex-img">
-                        <a href="https://babybonk.pro/#">
+                        <a href="https://laughcoin.io/#">
                             <img src={logoDextools} alt=""  />
                         </a>
                     </div>
                 </div>
                 <div className="about-heading aos-init aos-animate" data-aos="fade-up">
-                    About Baby Bonk and what's special here?
+                    About Laugh Coin and what's special here?
                 </div>
                 <p className="about-desc aos-init aos-animate" data-aos="fade-up">
-                    Baby Bonk is all about spreading the crypto love, created for the
+                    Laugh Coin is all about spreading the crypto love, created for the
                     Bonk-loving community on Solana. Everything that belongs to the team
                     will be burned forever along with the plan to promote the project
                     through long-term marketing campaigns that bring trust and a vibrant
@@ -59,7 +59,7 @@ function About() {
                         <p className="utility-des">
                             Liquidity is completely burned, no one can interfere with
                             liquidity and endanger the project. Our community is always safe
-                            in the Baby Bonk space
+                            in the Laugh Coin space
                         </p>
                     </div>
                     <div className="utility-box">
@@ -68,16 +68,16 @@ function About() {
                         <p className="utility-des">
                             The project is empowered by the community. Smart contracts are
                             completely renounced, no one can interfere anymore, absolutely
-                            safe in the Baby Bonk space
+                            safe in the Laugh Coin space
                         </p>
                     </div>
                 </div>
                 <div className="about-button aos-init aos-animate" data-aos="fade-up">
                     <div className="button-style">
-                        <a href="https://babybonk.pro/#">Burned Transaction</a>
+                        <a href="https://laughcoin.io/#">Burned Transaction</a>
                     </div>
                     <div className="button-style">
-                        <a href="https://babybonk.pro/#">Renounced Transaction</a>
+                        <a href="https://laughcoin.io/#">Renounced Transaction</a>
                     </div>
                 </div>
             </div>
