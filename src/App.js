@@ -1,29 +1,21 @@
-import logo from './assets/link-babybonk-logo-512-png.png';
+
 import './assets/globals.css';
-import './assets/aos.css';
-import './App.css';
 import './assets/reset.css';
+import './App.css';
+import './assets/aos.css';
+
+import Header from './components/header'
+import Main from './components/main'
+import About from './components/about'
+import Footer from './components/footer'
 
 function App() {
   return (
     <div className="App">
-      <header>
-        <div className="header-img">
-          <a href="https://babybonk.pro/#">
-            <img src={logo} alt="logo" />
-          </a>
-        </div>
-        <div>
-          <ul className="header-list">
-            <li><a href="https://babybonk.pro/#">Home</a></li>
-            <li><a href="https://babybonk.pro/#about">About</a></li>
-            <li><a href="https://babybonk.pro/#tokenomics">Tokenomics</a></li>
-          </ul>
-        </div>
-        <div className="header-buy">
-          <a href="https://babybonk.pro/#">BUY $BBONK</a>
-        </div>
-      </header >
+      <Header></Header>
+      <Main></Main>
+      <About></About>
+      <Footer></Footer>
     </div >
   );
 }

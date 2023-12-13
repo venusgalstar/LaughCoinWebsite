@@ -651,6 +651,28 @@ div.footer {
   color: #61dafb;
 }
 
+.spanClass {
+  color: #fff;
+  font-family: Exo;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  /* 125% */
+}
+
+.h2Class{
+  color: #fff;
+  text-align: center;
+  font-family: Exo;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px; /* 200% */
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
