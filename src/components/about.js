@@ -13,22 +13,22 @@ function About() {
             <div className="wrap-about">
                 <div className="about-dex aos-init aos-animate" data-aos="fade-up">
                     <div className="dex-img">
-                        <a href="https://laughcoin.io/#">
+                        <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7&fixed=in">
                             <img src={logoRaydium} alt="" />
                         </a>
                     </div>
                     <div className="dex-img">
-                        <a href="https://laughcoin.io/#">
+                        <a href="https://solscan.io/token/C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7">
                             <img src={logoSolscan} alt="" />
                         </a>
                     </div>
                     <div className="dex-img">
-                        <a href="https://laughcoin.io/#">
+                        <a href="https://dexscreener.com/solana/gvy5dgoagmkfw4lrh836pf9dwlt4dml7k74pfchnwirc">
                             <img src={logoDexscreener} alt="" />
                         </a>
                     </div>
                     <div className="dex-img">
-                        <a href="https://laughcoin.io/#">
+                        <a href="https://www.dextools.io/app/en/solana/pair-explorer/GVy5DGoAgMKfw4LRH836PF9DWLT4dML7K74PfChNWirC">
                             <img src={logoDextools} alt="" />
                         </a>
                     </div>
@@ -77,7 +77,7 @@ function About() {
                         <a href="https://laughcoin.io/#">Burned Transaction</a>
                     </div>
                     <div className="button-style">
-                        <a href="https://laughcoin.io/#">Renounced Transaction</a>
+                        <a href="https://solscan.io/tx/5AdGUJBn4q6TF2gAZKPnWeMRh7Np1HYRndJXBqhPiC7SqLr7CG8yq1HTw3M5mp1Q3fgR6zfBoaS6WyYXwgzif76h">Renounced Transaction</a>
                     </div>
                 </div>
             </div>

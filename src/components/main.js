@@ -34,12 +34,12 @@ function Main() {
                         </div>
                         <div className="social-2">
                             <div className="button-social">
-                                <a href="https://laughcoin.io/#">
+                                <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7&fixed=in">
                                     <img src={logoShopping} alt="" />
                                     Buy $LAUGH</a>
                             </div>
                             <div className="button-social">
-                                <a href="https://laughcoin.io/#">
+                                <a href="https://birdeye.so/token/C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7?chain=solana">
                                     <img src={logoBar} alt="" />
                                     Open Chart</a>
                             </div>

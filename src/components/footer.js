@@ -32,10 +32,10 @@ function About() {
                     </h2>
                     <div className="box-button">
                         <div className="footer-button button1">
-                            <a href="https://laughcoin.io/#">BUY $LAUGH</a>
+                            <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7&fixed=in">BUY $LAUGH</a>
                         </div>
                         <div className="footer-button">
-                            <a href="https://laughcoin.io/#">VIEW CHART</a>
+                            <a href="https://birdeye.so/token/C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7?chain=solana">VIEW CHART</a>
                         </div>
                         <div className="footer-button">
                             <a href="https://t.me/+pYi9uwqz1q1mNzM1" target="_blank">COMMUNITY</a>
