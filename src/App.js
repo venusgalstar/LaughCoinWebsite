@@ -4,18 +4,24 @@ import './assets/reset.css';
 import './App.css';
 import './assets/aos.css';
 
-import Header from './components/header'
-import Main from './components/main'
-import About from './components/about'
-import Footer from './components/footer'
+import Home from './pages/home';
+import Art from './pages/art';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route
+} from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <Header></Header>
-      <Main></Main>
-      <About></About>
-      <Footer></Footer>
+       <Router>
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/art" element={<Art />} />
+                {/* <Route path="/contact" element={<ContactComponent />} /> */}
+            </Routes>
+        </Router>
     </div >
   );
 }
