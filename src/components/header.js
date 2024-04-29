@@ -13,6 +13,7 @@ function Header() {
                     <li><a href="https://laughcoin.io/#">Home</a></li>
                     <li><a href="https://laughcoin.io/#about">About</a></li>
                     <li><a href="https://laughcoin.io/#tokenomics">Tokenomics</a></li>
+                    <li><a href="https://magiceden.io/marketplace/9dKKUXs4n7teqDL1ZKngP3evYxPjia5AJoQMdMCJTAC8">NFT Collection</a></li>
                 </ul>
             </div>
             <div className="header-buy">

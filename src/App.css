@@ -474,7 +474,8 @@ div.footer {
   /* 153.846% */
 }
 
-@media only screen and (max-width: 600px) {
+
+@media only screen and (max-width: 1450px) {
   header {
     padding: 0;
     flex-direction: column;
@@ -617,6 +618,7 @@ div.footer {
 
   .social-1,
   .social-2 {
+    display: flex;
     gap: 30px;
   }
 
@@ -640,13 +642,13 @@ div.footer {
   .button-social {
     width: 160px;
     padding: 10px 0px 10px 10px;
+    margin: auto;
   }
 
   .button-social a img {
     margin-right: 10px;
   }
 }
-
 .App-link {
   color: #61dafb;
 }
