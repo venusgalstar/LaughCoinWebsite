@@ -19,7 +19,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 362px;
+  padding: 0 250px;
 }
 
 .header-list {
